@@ -3,8 +3,7 @@
 An RNA-seq analysis examining how ion-modified calcium phosphate scaffolds influence **Mmp2** and **Mmp9** gene expression in mouse macrophages.
 
 ## Access the Presentation and Report
-
-- [View the PowerPoint Presentation](Research_question.pptx)
+- [View the PowerPoint Presentation](Research_question.pdf)
 - [View the Final Report](BIOI621_Final_Report.pdf)
 
 ---
