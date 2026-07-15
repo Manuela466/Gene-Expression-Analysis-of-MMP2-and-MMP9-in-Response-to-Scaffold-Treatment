@@ -5,7 +5,7 @@ An RNA-seq analysis examining how ion-modified calcium phosphate scaffolds influ
 ## Access the Presentation and Report
 
 - [View the PowerPoint Presentation](Research_question.pptx)
-- [View the Final Report](BIOI621 Final Report.pdf)
+- [View the Final Report](BIOI621_Final_Report.pdf)
 
 ---
 
